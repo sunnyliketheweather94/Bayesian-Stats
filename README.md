@@ -1,1 +1,2 @@
-# Bayesian-Stats
+# Bayesian Statistics
+This repository is for me to practise different Bayesian statistics problems, taken from sources like Probabilistic Machine Learning, Pattern Recognition, and Bayesian Data Analysis, and more...
